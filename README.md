@@ -7,10 +7,10 @@ A real-time chat application built with the **MERN Stack** (MongoDB, Express, Re
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](C:\Users\maste\OneDrive\Pictures\Screenshots 3)
+![Login](C:\Users\maste\OneDrive\Pictures\Screenshots(3))
 
 ### 💬 Chat Interface
-![Chat](C:\Users\maste\OneDrive\Pictures\Screenshots 5)
+![Chat](C:\Users\maste\OneDrive\Pictures\Screenshots(5))
 
 
 
