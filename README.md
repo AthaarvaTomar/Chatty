@@ -4,6 +4,17 @@ A real-time chat application built with the **MERN Stack** (MongoDB, Express, Re
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](C:\Users\maste\OneDrive\Pictures\Screenshots 3)
+
+### 💬 Chat Interface
+![Chat](C:\Users\maste\OneDrive\Pictures\Screenshots 5)
+
+
+
+
 ## 🚀 Tech Stack
 
 - **Frontend:** React, TailwindCSS, DaisyUI, Socket.io Client
@@ -47,5 +58,4 @@ npm run buld
 npm run dev
 
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+
