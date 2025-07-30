@@ -1,4 +1,3 @@
-Set up .env file 
 
 MONGODB_URI=...
 PORT=5001
@@ -10,9 +9,3 @@ CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
 
-Build app 
-
-npm run build
-
-Start App
-npm run dev
