@@ -1,3 +1,4 @@
+SET UP .env File
 
 MONGODB_URI=...
 PORT=5001
