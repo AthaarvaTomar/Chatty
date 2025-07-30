@@ -38,7 +38,7 @@ CLOUDINARY_API_SECRET=...
 
 NODE_ENV=development
 
-🏗️ BUILD APP 
+## 🏗️ BUILD APP 
 
 npm run buld 
 
